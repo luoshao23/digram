@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T13:11:46.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="5OUzN-0xN5F7DxK-o9bZ" version="13.6.9" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">3Vhdb5swFP01flwEGAg8hoR2k9apUjV128vkgkPcAs4cp0n262eD+TSNmo822/IQXR9s7HvuPb7GAE6z7TVDy8UNjXEKLCPeAjgDluXZUPxLYFcCrmmXQMJIXEJmA9yR31iBhkLXJMarTkdOacrJsgtGNM9xxDsYYoxuut3mNO3OukQJ1oC7CKU6ek9ivlCo6frNg4+YJAs1tWeNywcPKHpKGF3naj5gwXnxKx9nqHqXcnS1QDHdtCAYAjhllPLSyrZTnEpqK9rKcVcvPK3XzXDOXzPAKgc8o3StXF9xxLhaHN9VhIh1LqWZbRMZ8NE8pZtoIXqOOGYZyRGnDMBgxRl9qikT3gSie0zEYqY0lT1mOc1xC54RJuJHaF48YnJYMKc5v1NTG6K94FkqTFOYunvK42fMON62IOXuNaYZ5mwnuqinlquor1JTNTetOFfRWbRCDBWGVGol9ZsbeoWhGB5mG2psg9ADXgiCMQgd4F0B3/21xsVyOdrSnGbCdFOxhOCBCSuRlj5mvcJMqg1ntAgPiQ4IYIw4+kdCZ5sjpxM8Ew5Ez/H16HlniN7sHoc/ll/8R3IVbq49wj/Nbz64pkY1jsVeopqSF5rQHKVhgwbFBoFjRVLT5zOlS0XXI+Z8pzZGtOa0S6bgkO2+yfGCENX8rl5XNGbbTmvXbt1iRoTzmCmwdECu+sVNpHKSrlmkeqlAiN0iwXwfQcZwTBlOESfP3TlPCY+jievrVPhmDAnIByIhPB+ELvACMPEV4k8KwwQ+ZGJx9D9VkdFTkeW8o4rGGqltd82aw4ovUUENA0LX1dg1X0lNO2stPWvhYP6/Q8J6F2UC6kw4l2LCrJK40e5OHP/69IgE5/vl0SWsJ7UePCdp2oN09Z5Bb3DcPXBAX1ebPXDgsNw3KlmOnniHlCzzyJK1JbxVsUSrLljCbuqVbOxajX61apU+3+gWv6YWHlL+ThHdkaWz+qTpa+89qqQuNVkF/QAEdmG4IDDW0UMx9waxWJfhy0VwyXCM5yTH8c8loxFerf6Nkmi73YIIzaGCOKBR7wwRGT41WRc5VtYaVdKqVFpr9iiddlRqHqPR43S25zzaE997Fbq9K+p9Fk7GwHPleXRiAd9U33qTqTSEWv3wbz2carIbiNMBh1PoXfwTz9bik1GGpV/lJjcajXS15vFEXkQ1pMZotagLaIs1id8iLpI9LxDLgIOxOqugzlWNzylMVxfmQV+UrQQZ2qsr7NWiVjPcUiJcaY5z1RCVn47dy7vSUTWqffXWf5HTPRfa/QQuidBeVORw7fYJae1qaR3m8QG7ygVu/k7bW9xe5Ky3u/oTzeYSt4xYc1EOwz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-10T06:04:50.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="TZCHC65OshN7lGvBQvWb" version="13.6.9" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="843" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="获取query taxonomy&lt;br&gt;获取user demographic" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="241.5" y="130" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWeEZpN9jiFEwG8itIfM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5" target="DWeEZpN9jiFEwG8itIfM-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="UCB &lt;br&gt;选择通道ratio" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240.5" y="250" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="390" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DWeEZpN9jiFEwG8itIfM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;" parent="1" source="51" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="更新ucb rewards" style="shape=mxgraph.flowchart.predefined_process;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="379" width="150" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="DWeEZpN9jiFEwG8itIfM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cHKLy43bWfM_BM2E0iHo-53" target="51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHKLy43bWfM_BM2E0iHo-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DWeEZpN9jiFEwG8itIfM-60" target="cHKLy43bWfM_BM2E0iHo-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWeEZpN9jiFEwG8itIfM-60" value="视频召回" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240.5" y="380" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWeEZpN9jiFEwG8itIfM-66" value="End" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cHKLy43bWfM_BM2E0iHo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cHKLy43bWfM_BM2E0iHo-53" target="DWeEZpN9jiFEwG8itIfM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHKLy43bWfM_BM2E0iHo-53" value="用户消费" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="490" width="159" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
