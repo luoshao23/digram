@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:11:39.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="16.2.2" etag="VQ0xUT7EI9XscZBLFBi7" type="github"><diagram id="gQPmjHE9wBDnSmZhgZtJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:20:56.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="mH2dh2BWL1pUGcGrLSAL" version="16.2.2" type="github">
+  <diagram id="gQPmjHE9wBDnSmZhgZtJ" name="Page-1">
+    <mxGraphModel dx="894" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-1" value="多通道cache" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-2" value="语义召回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-3" value="主通道" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="80" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-4" value="标签召回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-5" value="向量召回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-6" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-7" value="笔记融合" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-8" value="召回开关" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U7huBn0-MUVYKRY7Ombx-9" value="主通道cache" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
